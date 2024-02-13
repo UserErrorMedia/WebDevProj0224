@@ -8,3 +8,4 @@ JavaScript: The top navigation bar will collapse into a hamburger menu when the 
 
 The Contact page contains a contact form with a submit button (which has not been coded to send in an email at this time). The navigation bar on this page has been reduced to only one option which takes you back to the "Home" or main landing page.
  
+Images were created using LeonardoAI
